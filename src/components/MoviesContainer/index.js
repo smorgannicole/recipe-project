@@ -32,5 +32,4 @@ const MoviesContainer = () => {
 		</div>
 	);
 };
-
 export default MoviesContainer;
